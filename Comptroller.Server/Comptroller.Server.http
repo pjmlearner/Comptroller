@@ -1,0 +1,6 @@
+@Comptroller.Server_HostAddress = http://localhost:5286
+
+GET {{Comptroller.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
